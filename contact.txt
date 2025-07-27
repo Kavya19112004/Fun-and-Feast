@@ -1,0 +1,168 @@
+<html>
+<body>
+<h1 style="color:blue;">Contacts</h1>
+<title>
+</head>
+</title>
+<body>
+<table>
+<tr>
+<td>
+<p><b style="color:red;">1)New Banans Cafe & Restaurant</b>
+<br>
+<b style="color:green;">Address:</b>3rd Floor 42, Caziyar Street, Puducherry 605001
+<br>
+<b style="color:green;">Hours:</b> Open · Closes 10?pm</b>
+<br>
+Updated by this business 4 days ago
+<br>
+<b style="color:green;">Phone:</b> 096265 61259
+<br>
+</br>
+</td>
+<td>
+
+<b style="color:red;" >2)Best Restaurant In Pondicherry-Margarita's Mexican Restaurant</b>
+<br>
+<b style="color:green;">Address: </b>178, Bussy St, MG Road Area, Puducherry, 605001
+<br>
+<b style="color:green;">Hours: </b>Open · Closes 10:30?pm
+<br>
+Confirmed by phone call 6 weeks ago
+<br>
+<b style="color:green;">Menu:</b> margaritas.in
+<br>
+<b style="color:green;">Reservation: </b>zomatobook.com
+<br>
+Providers 
+<br>
+
+<b style="color:green;">Order: </b>swiggy.com, zoma.to
+<br>
+<b style="color:green;">Phone:</b> 0413 406 6401
+<br>
+</br>
+</td>
+<td>
+<b style="color:red;" >3)The Smoothie Bar</b>
+<br>
+<b style="color:green;">Address: </b>26, Sri Aurobindo St, White Town, Puducherry, 605001
+<br>
+<b style="color:green;">Hours: </b>Open · Closes 10?pm
+<br>
+Menu: smoothiebar.in
+<br>
+<b style="color:green;">Reservation: </b>hopsticks.com
+<br>
+Providers 
+<br>
+<b style="color:green;">Order:</b> hopsticks.com
+<br>
+Providers 
+<br>
+<b style="color:green;">Phone: </b>098409 23352
+<br>
+</br>
+</td>
+</tr>
+<tr>
+<td>
+<b style="color:red;">4)Vélo Café & Le Velo Box (multicuisine restaurant)</b>
+<br>
+<b style="color:green;">Address:</b> Muslim quarters, 166, H.M.Kassim Salai, White Town, Puducherry, 605001
+<br>
+<b style="color:green;">Hours: </b>Open · Closes 10?pm
+<br>
+<b style="color:green;">Phone:</b> 099443 07770
+<br>
+<b style="color:green;">Order:</b> swiggy.com
+<br>
+</br>
+</td>
+<td>
+<b style="color:red;" >5)Villa Shanti for food lovers</b>
+<br>
+<b style="color:green;">Address:</b>14, Suffren St, White Town, Puducherry, 605001
+<br>
+<b style="color:green;">Hours:</b>Open · Closes 10:30?pm
+<br>
+Confirmed by this business 7 weeks ago
+<br>
+<b style="color:green;">Phone:</b>0413 420 0028
+<br>
+</br>
+</td>
+<td>
+<b style="color:red;" >6)Cafe Veloute</b>
+<br>
+<b style="color:green;">Address:</b>No.28, 1 St Floor, Bussy St, Puducherry, 605001
+<br>
+<b style="color:green;">Hours:</b> Open · Closes 10:30?pm
+<br>
+Updated by this business 2 weeks ago
+<br>
+<b style="color:green;">Menu:</b>drive.google.com
+<br>
+<b style="color:green;">Order:</b>swiggy.com
+<br>
+Providers 
+<br>
+<b style="color:green;">Phone:</b>430 75765
+<br>
+</br>
+</td>
+</tr>
+<tr>
+<td>
+<b style="color:red;">7)1 RUE SUFFREN</b>
+<br>
+<b style="color:green;">Address:</b> Mahe de Labourdonnais St, White Town, Puducherry, 605001
+<br>
+<b style="color:green;">Hours:</b>Open · Closes 11?pm
+<br>
+<b style="color:green;">Phone:</b>093449 14441
+<br>
+</br>
+</td>
+<td>
+
+<b style="color:red;" >8)Escape In, Multi Cuisine, Sea View Restaurant</b>
+<br>
+<b style="color:green;">Address:</b> White Town, Puducherry, 605001
+<br>
+<b style="color:green;">Hours:</b>Open · Closes 10:45?pm
+<br>
+<b style="color:green;">Phone:</b> 094433 55062
+<b style="color:green;">Order:</b>swiggy.com
+<br>
+</br>
+</td>
+</tr>
+<tr>
+<td>
+<b style="color:red;">9)Tamizh Spice Restaurant</b>
+<br>
+<b style="color:green;">Address:</b> #330, Vazhudavoor Rd, Sokkanathan Pet, Sokkanadhanpettai, Sokkanathan Pettai, Shanmugapuram, Puducherry, 605009
+<br>
+<b style="color:green;">Hours:</b>Open · Closes 11?pm
+<br>
+</br>
+</td>
+</tr>
+
+<tr>
+<td>
+<b style="color:red;">10)La Maison Rose</b>
+<br>
+<b style="color:green;">Address:</b>8, Romain Rolland St, White Town, Puducherry, 605001
+<br>
+<b style="color:green;">Hours:</b>Open · Closes 11?pm
+<br>
+</br>
+</td>
+<td>
+</td>
+</tr>
+</table>
+</body>
+</html>
